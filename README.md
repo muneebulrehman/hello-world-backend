@@ -1,24 +1,36 @@
-# README
+# Rails sample api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample rails api that generated random greeting message from given 5 preset messages
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- RoR
+- PostgreSQL
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+- Ruby
+- RoR
+- PostgreSQL
 
-* Database creation
+## Setup
 
-* Database initialization
+- Clone the project
+- Run `bundle install` and `npm install`
+- Run the `rails server` to start the server
 
-* How to run the test suite
+## Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Muneeb Ul Rehman**
 
-* Deployment instructions
+- GitHub: [@Muneeb](https://github.com/muneebulrehman)
+- Twitter: [@NeatCoder\_](https://twitter.com/NeatCoder_)
+- LinkedIn: [Muneeb](https://www.linkedin.com/in/muneebulrehman/)
 
-* ...
+## Contributions
+
+Contributions, issues, and feature requests are welcome!
+
+### 📝 License
+
+This project is MIT licensed.
