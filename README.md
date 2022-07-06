@@ -1,24 +1,40 @@
-# README
+# Rails sample api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample rails api that generated random greeting message from given 5 preset messages
 
-Things you may want to cover:
+> Link to the Front-end PR
 
-* Ruby version
+[Link to PR](https://github.com/muneebulrehman/hello-world-frontend/pull/1)
 
-* System dependencies
+## Built with
 
-* Configuration
+- RoR
+- PostgreSQL
 
-* Database creation
+### Prerequisites
 
-* Database initialization
+- Ruby
+- RoR
+- PostgreSQL
 
-* How to run the test suite
+## Setup
 
-* Services (job queues, cache servers, search engines, etc.)
+- Clone the project
+- Run `bundle install` and `npm install`
+- Run the `rails server` to start the server
 
-* Deployment instructions
+## Author
 
-* ...
+👤 **Muneeb Ul Rehman**
+
+- GitHub: [@Muneeb](https://github.com/muneebulrehman)
+- Twitter: [@NeatCoder\_](https://twitter.com/NeatCoder_)
+- LinkedIn: [Muneeb](https://www.linkedin.com/in/muneebulrehman/)
+
+## Contributions
+
+Contributions, issues, and feature requests are welcome!
+
+### 📝 License
+
+This project is MIT licensed.
